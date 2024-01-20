@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module fritzingVersion="1.0.2b.2023-12-20.CD-1901-0-dbdbe34c" icon="Custom1.png">
-    <title>FRC-4039</title>
-    <instances>
-        <instance moduleIdRef="rev_neo_550_bldc_6d52ad77a0bffc87a604b8ffa4a56064_2" modelIndex="85513078" path="C:/Users/Wyatt.DESKTOP-BT956QR/Documents/Fritzing/parts/user/rev_neo_550_bldc_6d52ad77a0bffc87a604b8ffa4a56064_2.fzp">
-            <views/>
-        </instance>
-    </instances>
-</module>
